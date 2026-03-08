@@ -1,6 +1,11 @@
 # Visualizing Housing Market Trends 📈🏠
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://ojasvsingh71.github.io/Visualizing-Housing-Market-Trends/Web%20Integration/index.html)
+
 Welcome to the **Visualizing Housing Market Trends** project! This repository contains an end-to-end data analysis, visualization, and web integration project designed to extract, process, and beautifully display housing market data. 
+
+## 🌐 Live Demo
+Explore the interactive dashboard and web interface live: **[Click Here to View the Project](https://ojasvsingh71.github.io/Visualizing-Housing-Market-Trends/Web%20Integration/index.html)**
 
 ## 📋 Project Overview
 This project focuses on transforming raw housing market data into actionable insights through an interactive dashboard and storyboard. The final visualizations are embedded into a web user interface powered by Flask, ensuring the data is both accessible and easy to understand.
